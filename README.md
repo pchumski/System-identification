@@ -1,2 +1,4 @@
 # System-identification
-The project aimed to identify system 6 using methods learned in laboratory classes and verify the obtained results using instructor-presented verification methods and criteria.
+The aim of the project was to identify the system from set number 6. In order to identify the model and its parameters, methods learned during laboratory classes were used. The obtained results were verified using verification and criteria methods presented by the instructors.
+
+Last update 06.2022
